@@ -6,7 +6,7 @@
 
     
     function validated(){
-        if (email.value == "martyn@gmail.com" & password.value == "1029") {
+        if (email.value == "Martyn" & password.value == "1029") {
             error.style.display = "none";
             return true;
         }
